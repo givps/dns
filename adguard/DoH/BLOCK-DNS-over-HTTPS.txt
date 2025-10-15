@@ -1,0 +1,119 @@
+! ==== BLOCK DNS-over-HTTPS (DoH) ====
+! Cloudflare
+||one.one.one.one^
+||cloudflare-dns.com^
+||mozilla.cloudflare-dns.com^
+||security.cloudflare-dns.com^
+||family.cloudflare-dns.com^
+
+! Google
+||dns.google^
+||dns64.dns.google^
+||dns.google.com^
+||googledns.com^
+
+! Quad9
+||dns.quad9.net^
+||dns10.quad9.net^
+||dns11.quad9.net^
+||dns12.quad9.net^
+
+! NextDNS
+||dns.nextdns.io^
+||dns.nextdns.com^
+||doh.nextdns.io^
+
+! AdGuard
+||dns.adguard.com^
+||dns-family.adguard.com^
+||dns-unfiltered.adguard.com^
+||dns.adguard-dns.com^
+
+! OpenDNS / Cisco
+||doh.opendns.com^
+||doh.opendns.net^
+||familyshield.opendns.com^
+||opendns.familyshield.com^
+
+! CleanBrowsing
+||doh.cleanbrowsing.org^
+||adult-filter-dns.cleanbrowsing.org^
+||family-filter-dns.cleanbrowsing.org^
+||security-filter-dns.cleanbrowsing.org^
+
+! Comodo Secure DNS
+||doh.comodo.com^
+||comodo-dns.com^
+
+! Cloud9DNS
+||dns.cloudflare9.net^
+
+! Control D
+||freedns.controld.com^
+||doh.controld.com^
+
+! Mullvad VPN DNS
+||doh.mullvad.net^
+
+! Tenta Browser
+||doh.tenta.io^
+
+! Yandex
+||dns.yandex.com^
+||dns.yandex.net^
+||doh.yandex.net^
+
+! LibreDNS
+||doh.libredns.gr^
+
+! BlahDNS
+||doh-ch.blahdns.com^
+||doh-de.blahdns.com^
+||doh-fi.blahdns.com^
+
+! AliDNS (China)
+||dns.alidns.com^
+||doh.pub^
+||dns.pub^
+
+! DNS.SB
+||doh.dns.sb^
+||dns.dns.sb^
+
+! DNS.Surf
+||doh.dns.surf^
+
+! SecureDNS
+||doh.securedns.eu^
+||dns.securedns.eu^
+
+! Pi-DNS
+||doh.pi-dns.com^
+
+! OpenNIC
+||doh.opennic.org^
+
+! Neustar
+||dns.neustar^
+||doh.safesurfer.io^
+
+! Shecan (Iran)
+||dns.shecan.ir^
+
+! Alternate DNS
+||dns.alternate-dns.com^
+
+! F-Secure
+||dns.f-secure.com^
+
+! Norton ConnectSafe
+||doh.nortonconnectsafe.com^
+
+! PowerDNS
+||doh.powerdns.com^
+
+! Snopyta / dnsforge.de
+||dns.dnsforge.de^
+
+! uncensoredDNS
+||doh.uncensoreddns.org^
