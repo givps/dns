@@ -1,4 +1,7 @@
-! ==== BLOCK DNS-over-HTTPS (DoH) ====
+! ===========================================
+! BLOCK DNS-over-HTTPS (DoH)
+! ===========================================
+
 ! Cloudflare
 ||one.one.one.one^
 ||cloudflare-dns.com^
