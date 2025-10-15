@@ -3,6 +3,7 @@
 ! ===========================================
 
 ! Cloudflare
+||one.one.one.one^
 ||cloudflare-dns.com^
 ||mozilla.cloudflare-dns.com^
 ||security.cloudflare-dns.com^
